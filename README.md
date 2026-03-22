@@ -1,7 +1,8 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:FF6B9D,100:00D4FF&height=200&section=header&text=Ishika%20Goyal&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C&descAlignY=55&animation=fadeIn" />
+<p align="center">
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:FF6B9D,100:00D4FF&height=200&section=header&text=Ishika%20Goyal&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&animation=fadeIn" />
+
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🔥+MERN+Stack+Developer;📊+Data+Analysis+%7C+Power+BI;⚡+Next.js+%7C+TypeScript;🚀+Building+Products+that+Actually+Work)](https://git.io/typing-svg)
 
