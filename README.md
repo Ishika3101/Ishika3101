@@ -22,12 +22,10 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-
   </defs>
 
   <rect width="800" height="200" fill="url(#bg)" rx="12"/>
 
-  <!-- name -->
   <text x="400" y="95" text-anchor="middle"
     font-family="Courier New"
     font-size="52"
@@ -37,7 +35,6 @@
     Ishika Goyal
   </text>
 
-  <!-- role -->
   <text x="400" y="125" text-anchor="middle"
     font-family="Courier New"
     font-size="16"
@@ -46,7 +43,6 @@
     FULL-STACK DEVELOPER · DATA ANALYST
   </text>
 
-  <!-- quote -->
   <text x="400" y="155" text-anchor="middle"
     font-family="Courier New"
     font-size="14"
@@ -58,7 +54,6 @@
 </svg>
 
 </div>
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🔥+MERN+Stack+Developer;📊+Data+Analysis+%7C+Power+BI;⚡+Next.js+%7C+TypeScript;🚀+Building+Products+that+Actually+Work)](https://git.io/typing-svg)
 
