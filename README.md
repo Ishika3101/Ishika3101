@@ -1,63 +1,11 @@
 <div align="center">
-
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="50%" stop-color="#161b22"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00D4FF"/>
-      <stop offset="50%" stop-color="#FF6B9D"/>
-      <stop offset="100%" stop-color="#00D4FF"/>
-    </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="800" height="200" fill="url(#bg)" rx="12"/>
-
-  <text x="400" y="95" text-anchor="middle"
-    font-family="Courier New"
-    font-size="52"
-    font-weight="bold"
-    fill="url(#nameGrad)"
-    filter="url(#glow)">
-    Ishika Goyal
-  </text>
-
-  <text x="400" y="125" text-anchor="middle"
-    font-family="Courier New"
-    font-size="16"
-    fill="#8b949e"
-    letter-spacing="2">
-    FULL-STACK DEVELOPER · DATA ANALYST
-  </text>
-
-  <text x="400" y="155" text-anchor="middle"
-    font-family="Courier New"
-    font-size="14"
-    fill="#FF6B9D"
-    font-style="italic">
-    "Code. Build. Repeat."
-  </text>
-
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:FF6B9D,100:00D4FF&height=200&section=header&text=Ishika%20Goyal&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=55&animation=fadeIn" />
 
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🔥+MERN+Stack+Developer;📊+Data+Analysis+%7C+Power+BI;⚡+Next.js+%7C+TypeScript;🚀+Building+Products+that+Actually+Work)](https://git.io/typing-svg)
 
-</div>
+
 
 ---
 
@@ -68,7 +16,7 @@ ishika = {
     "name"        : "Ishika Goyal",
     "education"   : "B.Tech CSE @ VIT Bhopal (CGPA: 9.11)",
     "role"        : "Full-Stack Developer",
-    "focus"       : ["MERN Stack", "AI/ML Integration", "Data Analysis", "Scalable Web Apps"],
+    "focus"       : ["MERN Stack", "FullStack Development", "Data Analysis"],
     "email"       : "goyal.ishika1234@gmail.com",
     "fun_fact"    : "Won 1st prize in college business pitch out of 25 teams 🏆"
 }
