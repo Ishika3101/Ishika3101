@@ -99,7 +99,7 @@ ishika = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishika3101&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+
 
 </div>
 
