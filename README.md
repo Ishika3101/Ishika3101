@@ -45,7 +45,6 @@ ishika = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 📊 Data Analysis & Tools
@@ -88,12 +87,7 @@ ishika = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishika3101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika3101&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
