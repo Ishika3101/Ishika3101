@@ -91,7 +91,7 @@ ishika = {
 
 </div>
 
-<div align="center">
+
 
 
 
