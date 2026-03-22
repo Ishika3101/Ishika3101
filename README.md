@@ -1,20 +1,53 @@
-<!-- HEADER BANNER -->
 <div align="center">
-Show Image
-</div>
-<!-- ANIMATED MULTI-FONT CHANGING TEXT using SVG -->
-<div align="center">
-Show Image
-</div>
-<!-- SECOND LINE - different font & color for layered feel -->
-<div align="center">
-Show Image
+
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF"/>
+      <stop offset="50%" style="stop-color:#FF6B9D"/>
+      <stop offset="100%" style="stop-color:#00D4FF"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .name { font: bold 52px 'Courier New', monospace; fill: url(#nameGrad); filter: url(#glow); }
+      .role { font: 500 16px 'Courier New', monospace; fill: #8b949e; letter-spacing: 2px; }
+      .tag  { font: bold 13px 'Courier New', monospace; fill: #00D4FF; }
+      .dot  { fill: #FF6B9D; }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)" rx="12"/>
+  <!-- decorative dots -->
+  <circle cx="30" cy="30" r="5" class="dot" opacity="0.6"/>
+  <circle cx="50" cy="30" r="5" fill="#FFCA28" opacity="0.6"/>
+  <circle cx="70" cy="30" r="5" fill="#3fb950" opacity="0.6"/>
+  <!-- top bar line -->
+  <line x1="20" y1="50" x2="780" y2="50" stroke="#21262d" stroke-width="1"/>
+  <!-- name -->
+  <text x="400" y="115" text-anchor="middle" class="name">Ishika Goyal</text>
+  <!-- role line -->
+  <text x="400" y="148" text-anchor="middle" class="role">FULL-STACK DEV  ·  AI BUILDER  ·  DATA ANALYST</text>
+  <!-- bottom tags -->
+  <text x="130" y="178" text-anchor="middle" class="tag">⚡ MERN Stack</text>
+  <text x="440" y="178" text-anchor="middle" class="tag">📊 Power BI</text>
+  <text x="590" y="178" text-anchor="middle" class="tag">🚀 Next.js</text>
+  <text x="720" y="178" text-anchor="middle" class="tag">🔥 Firebase</text>
+  <!-- bottom line -->
+  <line x1="20" y1="160" x2="780" y2="160" stroke="#21262d" stroke-width="1"/>
+</svg>
+
 </div>
 
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=MERN+Stack+%7C+Next.js+%7C+AI+Integration+%F0%9F%9A%80;Building+Scalable+Full-Stack+Products+%E2%9C%A8;Data+Analysis+%7C+Power+BI+%7C+Tableau;Open+to+Collaborate+%26+Learn!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🔥+MERN+Stack+Developer;📊+Data+Analysis+%7C+Power+BI+%7C+Tableau;⚡+Next.js+%7C+TypeScript;🚀+Building+Products+that+Actually+Work)](https://git.io/typing-svg)
 
 </div>
 
@@ -63,6 +96,7 @@ ishika = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+
 ---
 
 ## 🚀 Featured Projects
@@ -92,12 +126,6 @@ ishika = {
 - 🔥 **Firebase Auth + Firestore** for secure sessions and persistent interview transcripts
 - 📊 **Dynamic dashboard** to track past interviews, feedback scores, strengths & improvement areas
 - 🏗️ Built with **TypeScript + Zod** for type safety, with modular components and clean architecture
-
----
-
-
-
-</div>
 
 ---
 
