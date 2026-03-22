@@ -1,17 +1,18 @@
 <div align="center">
 
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#161b22"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
 
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00D4FF"/>
-      <stop offset="50%" style="stop-color:#FF6B9D"/>
-      <stop offset="100%" style="stop-color:#00D4FF"/>
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="50%" stop-color="#FF6B9D"/>
+      <stop offset="100%" stop-color="#00D4FF"/>
     </linearGradient>
 
     <filter id="glow">
@@ -22,37 +23,41 @@
       </feMerge>
     </filter>
 
-    <style>
-      .name { font: bold 52px 'Courier New', monospace; fill: url(#nameGrad); filter: url(#glow); }
-      .role { font: 500 16px 'Courier New', monospace; fill: #8b949e; letter-spacing: 2px; }
-      .tag  { font: bold 13px 'Courier New', monospace; fill: #00D4FF; }
-      .quote { font: italic 14px 'Courier New', monospace; fill: #FF6B9D; }
-    </style>
   </defs>
 
   <rect width="800" height="200" fill="url(#bg)" rx="12"/>
 
-  <!-- top dots -->
-  <circle cx="30" cy="30" r="5" fill="#FF6B9D" opacity="0.7"/>
-  <circle cx="50" cy="30" r="5" fill="#FFCA28" opacity="0.7"/>
-  <circle cx="70" cy="30" r="5" fill="#3fb950" opacity="0.7"/>
-
   <!-- name -->
-  <text x="400" y="95" text-anchor="middle" class="name">Ishika Goyal</text>
+  <text x="400" y="95" text-anchor="middle"
+    font-family="Courier New"
+    font-size="52"
+    font-weight="bold"
+    fill="url(#nameGrad)"
+    filter="url(#glow)">
+    Ishika Goyal
+  </text>
 
   <!-- role -->
-  <text x="400" y="125" text-anchor="middle" class="role">
-    FULL-STACK DEVELOPER  · DATA ANALYST
+  <text x="400" y="125" text-anchor="middle"
+    font-family="Courier New"
+    font-size="16"
+    fill="#8b949e"
+    letter-spacing="2">
+    FULL-STACK DEVELOPER · DATA ANALYST
   </text>
 
   <!-- quote -->
-  <text x="400" y="155" text-anchor="middle" class="quote">
+  <text x="400" y="155" text-anchor="middle"
+    font-family="Courier New"
+    font-size="14"
+    fill="#FF6B9D"
+    font-style="italic">
     "Code. Build. Repeat."
   </text>
+
 </svg>
 
 </div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🔥+MERN+Stack+Developer;📊+Data+Analysis+%7C+Power+BI;⚡+Next.js+%7C+TypeScript;🚀+Building+Products+that+Actually+Work)](https://git.io/typing-svg)
