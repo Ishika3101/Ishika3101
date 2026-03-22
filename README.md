@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:FF6B9D,100:00D4FF&height=200&section=header&text=Ishika%20Goyal&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:FF6B9D,100:00D4FF&height=200&section=header&text=Ishika%20Goyal&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C&descAlignY=55&animation=fadeIn" />
 
 </div>
 
@@ -59,40 +59,29 @@ ishika = {
 
 ### 📄 SkillSync AI — Smart Resume Analyser
 > End-to-end AI application using NLP & ML to evaluate resume–job fit with semantic scoring and LLM-powered feedback.
-
-- 🧠 **NLP & ML pipeline** — skill extraction and skill gap analysis across 20+ skills
-- 📐 **Semantic similarity scoring** using TF-IDF and cosine similarity
-- 🤖 **LLM integration** via API with prompt engineering for context-aware resume improvement feedback and visual insights
+🔗 https://github.com/Ishika3101/SkillSync-AI
+🌐 https://resume-rag-backend.vercel.app/
 
 ---
 
 ### 💰 WELTH — AI-Powered Finance Platform
 > Full-stack financial analytics platform with AI-ready architecture, secure auth, and seamless data flow.
+🔗 https://github.com/Ishika3101/finance-ai-platform
 
-- ⚡ Built with **Next.js, React, Tailwind CSS, Prisma & Supabase** for a modern, performant stack
-- 🔐 **Authentication, data models & hooks** integrated for smooth end-to-end user experience
-- 📈 Bootstrapped for future **AI dashboards, real-time updates & predictive insights**
 
 ---
 
 ### 🎙️ PrepWise — AI Voice Agent Interview Platform
 > Real-time AI mock interview platform with voice agents, live feedback, and personalized dashboards.
-
-- 🗣️ Integrated **Vapi AI voice agents + Google Gemini** for live interview simulations and AI-guided feedback
-- 🔥 **Firebase Auth + Firestore** for secure sessions and persistent interview transcripts
-- 📊 **Dynamic dashboard** to track past interviews, feedback scores, strengths & improvement areas
-- 🏗️ Built with **TypeScript + Zod** for type safety, with modular components and clean architecture
+🔗 https://github.com/Ishika3101/PrepWise
+🌐 https://prep-wise-phi-six.vercel.app/
 
 ---
 
-## 🏆 Achievements & Certifications
-
-| 🎖️ Achievement | 📜 Certification |
-|---|---|
-| 🥇 1st Prize — College Business Pitch (25 teams) | ☁️ AWS Solutions Architect |
-| 👩‍💼 Co-Lead, Content Team — Freelancing Club | 📊 Power BI Workshop |
-| 💻 HackOn with Amazon Season 5 Participant | 🔢 MATLAB Certification |
-| 🥈 ELITE + SILVER — NPTEL (Privacy & Security) | ☁️ Salesforce Developer |
+## 🏆Certification
+| ☁️ AWS Solutions Architect
+| 🔢 MATLAB Certification 
+| ☁️ Salesforce Developer 
 
 ---
 
