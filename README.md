@@ -5,8 +5,10 @@
 </div>
 
 <div align="center">
+  <img src="C:\Users\HP\OneDrive\Documents\photo.jpg" width="150" height="150" style="border-radius: 50%;" alt="Ishika Goyal"/>
+</div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=MERN+Stack+%7C+Next.js+%7C+AI+Integration+%F0%9F%9A%80;NLP+%7C+Machine+Learning+%7C+LLM+APIs;Building+Scalable+Full-Stack+Products+%E2%9C%A8;Data+Analysis+%7C+Power+BI+%7C+Tableau;Open+to+Collaborate+%26+Learn!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=MERN+Stack+%7C+Next.js+%7C+AI+Integration+%F0%9F%9A%80;Building+Scalable+Full-Stack+Products+%E2%9C%A8;Data+Analysis+%7C+Power+BI+%7C+Tableau;Open+to+Collaborate+%26+Learn!)](https://git.io/typing-svg)
 
 </div>
 
@@ -91,12 +93,6 @@ ishika = {
 
 </div>
 
-
-
-
-
-</div>
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -127,7 +123,5 @@ ishika = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 *"Code is not just syntax — it's a craft."* ✨
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Ishika3101&color=6E40C9&style=flat-square&label=Profile+Views)
 
 </div>
