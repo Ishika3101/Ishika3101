@@ -1,12 +1,18 @@
+<!-- HEADER BANNER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ishika%20Goyal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
-
+Show Image
+</div>
+<!-- ANIMATED MULTI-FONT CHANGING TEXT using SVG -->
+<div align="center">
+Show Image
+</div>
+<!-- SECOND LINE - different font & color for layered feel -->
+<div align="center">
+Show Image
 </div>
 
+
 <div align="center">
-  <img src="C:\Users\HP\OneDrive\Documents\photo.jpg" width="150" height="150" style="border-radius: 50%;" alt="Ishika Goyal"/>
-</div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=MERN+Stack+%7C+Next.js+%7C+AI+Integration+%F0%9F%9A%80;Building+Scalable+Full-Stack+Products+%E2%9C%A8;Data+Analysis+%7C+Power+BI+%7C+Tableau;Open+to+Collaborate+%26+Learn!)](https://git.io/typing-svg)
 
