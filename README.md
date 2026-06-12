@@ -79,6 +79,14 @@ ishika = {
 
 ---
 
+---
+
+### 🛠️ FixGenie — Home Services Marketplace
+> Full-stack marketplace connecting customers with trusted service providers through secure booking and management workflows.
+🔗 https://github.com/Ishika3101/FixGenie
+
+---
+
 ## 🏆Certification
 | ☁️ AWS Solutions Architect
 | 🔢 MATLAB Certification 
